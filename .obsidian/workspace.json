@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "f512773051844d8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b5fb5be5183f64a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "364a89f14e96a0a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Базы данных/1. Архитектура баз данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60eaf90bb0380d9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Базы данных/2. Реляционная модель данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d005a9341fffe634",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c9ae3582e2de316",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e1f62f6f8f12978",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d958af10cc33839",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb3bcef2b701f6f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf2443cb38bf5880",
+    "type": "split",
+    "children": [
+      {
+        "id": "d836f5cd9bfe778a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c17fc385010049a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Базы данных/2. Реляционная модель данных.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed29c86aa37e8b44",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Базы данных/2. Реляционная модель данных.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "019ab72e02f8ea17",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9751d2aad56a4cfe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Базы данных/2. Реляционная модель данных.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4e1f62f6f8f12978",
+  "lastOpenFiles": [
+    "Untitled",
+    "Базы данных/1. Архитектура баз данных.md",
+    "Базы данных/2. Реляционная модель данных.md",
+    "Базы данных/Конспект",
+    "Базы данных"
+  ]
+}
